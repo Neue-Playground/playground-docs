@@ -11,7 +11,7 @@ const config = {
   title: 'Noodl',
   tagline: 'Dinosaurs are cool',
   url: 'https://noodlapp.github.io',
-  baseUrl: `/noodl-docs/`,
+  baseUrl: `/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
