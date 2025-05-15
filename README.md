@@ -1,6 +1,10 @@
-# Noodl docs
+# Neue Playground docs
 
-Welcome to the Noodl docs project! This is a open-source project aimed at providing detailed and up-to-date documentation for users of Noodl. Whether you're a beginner, intermediate, or advanced Noodl user, you will find this documentation invaluable.
+Welcome to the Neue Playground documentation! This is a open-source project aimed at providing detailed and up-to-date documentation for users of Neue Playground, which is based on the open-source Noodl software.
+
+## About Neue Playground
+
+Neue Playground is a fully low‑code IoT platform that lets anyone  program IoT-hardware, cloud logic and web dashboards, all with drag‑and‑drop flows and AI‑assisted guidance. Prototype complete end‑to‑end solutions in days, not weeks, without writing a single line of code.
 
 ## About Noodl
 
@@ -32,11 +36,11 @@ Now, you should be able to view the project in your preferred browser through `l
 
 ##### Can I preview my changes in the Noodl editor?
 
-Yes, when the Noodl editor starts up it will check anything running on `localhost:3000` and if it recognize that it is the Noodl docs it will use the local endpoint instead of the live docs.
+Yes, when the Neue Playground editor starts up it will check anything running on `localhost:3000` and if it recognize that it is the correct docs it will use the local endpoint instead of the live docs.
 
 ##### How do we deploy the changes?
 
-Currently people at Noodl will deploy the changes manually, until we have an automatic system in place.
+Currently people at Neue will deploy the changes manually, until we have an automatic system in place.
 
 ## Contributing
 
@@ -50,4 +54,4 @@ This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions, concerns, or feedback, please open a discussion in the [discussions tracker](https://github.com/noodlapp/noodl-docs/discussions) or join our Discord channel and we'll be happy to assist you!
+If you have any questions, concerns, or feedback, please reach out to us at https://www.neue.se/contact/ and we'll be happy to assist you!
